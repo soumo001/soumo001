@@ -1,117 +1,177 @@
-# Hi, I'm Soumalya Sett 👋
+<!-- ANIMATED HEADER -->
+<div align="center">
 
-### Senior Backend Developer | Python | GCP | Microservices
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Soumalya%20Sett&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Backend%20Developer%20%7C%20Python%20%7C%20GCP&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
-I am a Senior Backend Developer with 3+ years of experience building scalable backend applications, cloud-native systems, RESTful APIs, and distributed architectures.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Django;Cloud-Native+Engineering+with+GCP;Microservices+%7C+Distributed+Systems;Turning+Ideas+into+Production-Ready+Software" alt="Typing SVG"/>
 
-My expertise lies in Python backend engineering, microservices development, Google Cloud Platform, database optimisation, ETL automation, and AI-powered backend integrations.
+<br/>
 
-I enjoy designing reliable systems, solving complex engineering challenges, and building production-ready software.
+<a href="https://github.com/soumo001">
+<img src="https://img.shields.io/badge/GitHub-soumo001-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/soumalya-sett-2032a9265/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:settsoumo2790@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- Python, SQL
-
-**Backend Development**
-- Django, Django REST Framework
-- FastAPI, Flask
-- REST APIs, gRPC
-- Microservices, Distributed Systems
-
-**Cloud & Infrastructure**
-- Google Cloud Platform (GCP)
-- Cloud Run, GKE, Pub/Sub
-- BigQuery, Cloud SQL, Cloud Functions
-- Cloud Storage, Cloud Monitoring
-
-**Databases**
-- PostgreSQL, MySQL, SQLite
-- BigQuery
-
-**DevOps & CI/CD**
-- Docker, Git, GitHub Actions
-- Google Cloud Build
-- Terraform
-
-**Data Engineering**
-- Pandas, NumPy
-- ETL Pipelines
-- Data Validation
-- Data Processing & Automation
-
-**AI & Machine Learning**
-- LLM Integration
-- AI Agent Workflows
-- Function Calling
-- Scikit-learn
-
-**Testing & Engineering**
-- Pytest
-- Unit & Integration Testing
-- TDD
-- API Testing
-- Agile / Scrum
+</div>
 
 ---
 
-## 💼 Professional Experience
+## 👨‍💻 About Me
 
-**Senior Backend Developer | Tech Assignment Grade**
+```python
+class SoumalyaSett:
 
-May 2020 – Present
+    def __init__(self):
+        self.name = "Soumalya Sett"
+        self.role = "Senior Backend Developer"
+        self.experience = "6+ Years"
+        self.location = "Kolkata, India"
 
-- Designing Python-based backend applications and microservices.
-- Developing RESTful APIs using Django, Flask and FastAPI.
-- Building cloud-native solutions using Google Cloud Platform.
-- Engineering automated ETL pipelines and data-processing systems.
-- Integrating AI and machine-learning workflows into backend services.
-- Implementing CI/CD automation and containerised deployments.
-- Optimising database queries and application performance.
+        self.languages = ["Python", "SQL"]
+
+        self.backend = [
+            "Django", "FastAPI", "Flask",
+            "REST APIs", "Microservices"
+        ]
+
+        self.cloud = ["Google Cloud Platform"]
+
+        self.interests = [
+            "Distributed Systems",
+            "Cloud Architecture",
+            "AI Agent Engineering",
+            "Backend Performance"
+        ]
+
+    def current_focus(self):
+        return "Building scalable cloud-native applications"
+
+
+developer = SoumalyaSett()
+```
+
+Senior Backend Developer with 6+ years of experience designing and developing scalable Python applications, cloud-native backend systems, RESTful APIs and distributed architectures.
+
+Passionate about engineering reliable systems, automating data workflows, and integrating AI capabilities into modern backend applications.
+
+---
+
+## ⚡ Technical Arsenal
+
+### 💻 Programming & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,githubactions,git&theme=dark" />
+</p>
+
+### 🗄️ Databases & Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" />
+</p>
+
+### 📊 Data & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
+</p>
+
+**Additional technologies**
+
+`BigQuery` `Cloud Run` `Pub/Sub` `Cloud SQL` `Pandas` `NumPy` `Pytest` `REST API` `gRPC` `Power BI`
+
+---
+
+## 🏗️ Engineering Expertise
+
+| Domain | Specialisation |
+|---|---|
+| Backend Engineering | REST APIs, Microservices, FastAPI, Django |
+| Cloud Architecture | GCP, Cloud Run, GKE, Pub/Sub |
+| Data Engineering | ETL, BigQuery, Data Validation |
+| Database Engineering | PostgreSQL, SQL Optimisation |
+| DevOps | Docker, CI/CD, Terraform |
+| AI Engineering | LLM Integration, Agent Workflows |
+| Quality Engineering | Pytest, TDD, Integration Testing |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Technology | Status |
-|---|---|---|
-| Enterprise Microservices Platform | Python, FastAPI, Docker, PostgreSQL | Planned |
-| GCP Event-Driven System | Python, Pub/Sub, Cloud Run | Planned |
-| Enterprise ETL Pipeline | Python, Pandas, BigQuery | Planned |
-| AI Agent Backend | Python, FastAPI, LLM APIs | Planned |
-| Django REST API | Django, DRF, PostgreSQL | Planned |
-| Cloud DevOps Infrastructure | Docker, Terraform, GCP | Planned |
+<div align="center">
 
-Project repositories will be linked here as implementations are completed.
+| Project | Technology | Status |
+|:---|:---|:---:|
+| Enterprise Microservices Platform | Python, FastAPI, PostgreSQL, Redis | 🔨 Planned |
+| GCP Event-Driven System | Python, Pub/Sub, Cloud Run | 🔨 Planned |
+| Enterprise ETL Pipeline | Python, Pandas, BigQuery | 🔨 Planned |
+| AI Agent Backend | Python, FastAPI, LLM APIs | 🔨 Planned |
+| Django Enterprise REST API | Django, DRF, PostgreSQL | 🔨 Planned |
+| Cloud DevOps Infrastructure | Docker, Terraform, GCP | 🔨 Planned |
+
+</div>
+
+*Repository links will be added as each project becomes available.*
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumo001&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumo001&layout=compact&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumo001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumo001&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=soumo001&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable Python microservices.
-- Exploring advanced distributed systems.
-- Improving cloud-native engineering with GCP.
+- Building enterprise-grade Python microservices.
+- Exploring scalable distributed architectures.
+- Advancing cloud-native development with GCP.
 - Developing AI-powered backend applications.
-- Writing clean, maintainable and testable Python code.
+- Improving software reliability and performance.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- **Email:** settsoumo2790@gmail.com
-- **LinkedIn:** [Soumalya Sett](https://www.linkedin.com/in/soumalya-sett-2032a9265/)
-- **GitHub:** [@soumo001](https://github.com/soumo001)
+<div align="center">
 
----
+<a href="https://github.com/soumo001">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
 
-*Building scalable systems. Writing clean code. Solving real-world problems.*
+<a href="https://www.linkedin.com/in/soumalya-sett-2032a9265/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:settsoumo2790@gmail.com">
+<img src="https://img.shields.io/badge/Email-Write%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+<br/><br/>
+
+### 💙 Building scalable systems, one commit at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%"/>
+
+</div>
