@@ -185,10 +185,6 @@ An intelligent backend application integrating LLM APIs, AI agents, workflow aut
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=soumo001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumo001&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumo001&theme=tokyonight&hide_border=true" />
 
 </div>
