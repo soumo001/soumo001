@@ -23,39 +23,8 @@
 
 ## 👨‍💻 About Me
 
-```python
-class SoumalyaSett:
 
-    def __init__(self):
-        self.name = "Soumalya Sett"
-        self.role = "Senior Backend Developer"
-        self.experience = "6+ Years"
-        self.location = "Kolkata, India"
-
-        self.languages = ["Python", "SQL"]
-
-        self.backend = [
-            "Django", "FastAPI", "Flask",
-            "REST APIs", "Microservices"
-        ]
-
-        self.cloud = ["Google Cloud Platform"]
-
-        self.interests = [
-            "Distributed Systems",
-            "Cloud Architecture",
-            "AI Agent Engineering",
-            "Backend Performance"
-        ]
-
-    def current_focus(self):
-        return "Building scalable cloud-native applications"
-
-
-developer = SoumalyaSett()
-```
-
-Senior Backend Developer with 6+ years of experience designing and developing scalable Python applications, cloud-native backend systems, RESTful APIs and distributed architectures.
+Senior Backend Developer with 3+ years of experience designing and developing scalable Python applications, cloud-native backend systems, RESTful APIs and distributed architectures.
 
 Passionate about engineering reliable systems, automating data workflows, and integrating AI capabilities into modern backend applications.
 
@@ -123,22 +92,6 @@ Passionate about engineering reliable systems, automating data workflows, and in
 </div>
 
 *Repository links will be added as each project becomes available.*
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumo001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumo001&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=soumo001&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
