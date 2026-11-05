@@ -2,7 +2,7 @@
 
 ### Senior Backend Developer | Python | GCP | Microservices
 
-I am a Senior Backend Developer with 6+ years of experience building scalable backend applications, cloud-native systems, RESTful APIs, and distributed architectures.
+I am a Senior Backend Developer with 3+ years of experience building scalable backend applications, cloud-native systems, RESTful APIs, and distributed architectures.
 
 My expertise lies in Python backend engineering, microservices development, Google Cloud Platform, database optimisation, ETL automation, and AI-powered backend integrations.
 
