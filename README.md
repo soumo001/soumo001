@@ -1,4 +1,4 @@
-<!-- ANIMATED HEADER -->
+ <!-- ANIMATED HEADER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Soumalya%20Sett&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20GCP&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
@@ -122,15 +122,65 @@ A full-stack order and inventory management platform designed to demonstrate mod
 
 ---
 
-### 02. Enterprise Microservices Platform
+### 02. Enterprise Microservices Platform | Enterprise Backend Architecture
 
-<sub>Planned</sub>
+<div align="center">
 
-A scalable backend application exploring modular service architecture, inter-service communication, API gateways, authentication, and distributed system design.
+<a href="https://enterprise-microservices-platform.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20Website-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/soumo001/enterprise-microservices-platform">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-**Planned Technology Stack**
+<br/><br/>
 
-`Python` `FastAPI` `PostgreSQL` `Redis` `Docker`
+<img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+
+</div>
+
+A modular enterprise microservices platform designed to demonstrate service-oriented architecture, independent backend services, API gateway integration, and multi-tenant business operations.
+
+The platform separates business capabilities into independently structured FastAPI services, with a React and TypeScript frontend providing a centralized management interface.
+
+**Key Features**
+
+- API Gateway architecture for centralized API access.
+- Independent authentication and organization services.
+- Product catalogue and inventory management.
+- Order management and payment service architecture.
+- Notification service for application communication.
+- PostgreSQL database separation across 7 business services.
+- RESTful API architecture using FastAPI.
+- React and TypeScript enterprise dashboard.
+- Modular backend structure supporting independent service development.
+- Centralized frontend interface for enterprise operations.
+
+**Microservices Architecture**
+
+| Service | Responsibility |
+|---|---|
+| API Gateway | Centralized API routing |
+| Authentication | User authentication |
+| Organization | Organization management |
+| Catalog | Product catalogue |
+| Inventory | Stock management |
+| Order | Order management |
+| Payment | Payment operations |
+| Notification | Notification management |
+
+**Technology Stack**
+
+`Python` `FastAPI` `React` `TypeScript` `Vite` `PostgreSQL` `SQLAlchemy` `Alembic` `REST APIs` `Vercel`
+
+**Live Application:** [enterprise-microservices-platform.vercel.app](https://enterprise-microservices-platform.vercel.app)
+
+**GitHub Repository:** [github.com/soumo001/enterprise-microservices-platform](https://github.com/soumo001/enterprise-microservices-platform)
+
+<sub>Deployment note: The frontend is publicly deployed. Backend service hosting and complete production API integration are still being configured.</sub>
 
 ---
 
