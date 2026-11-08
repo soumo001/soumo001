@@ -100,6 +100,10 @@ I enjoy transforming complex business requirements into maintainable, secure, an
 
 <div align="center">
 
+<a href="https://nexusai-two-jet.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-NexusAI-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 <a href="https://github.com/soumo001/nexusai">
 <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
