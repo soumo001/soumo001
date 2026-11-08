@@ -1,9 +1,10 @@
- <!-- ANIMATED HEADER -->
+<!-- ANIMATED HEADER -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Soumalya%20Sett&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20GCP&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Soumalya%20Sett&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20AI%20Engineering%20%7C%20FastAPI&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Django;Cloud-Native+Engineering+with+GCP;Distributed+Systems+%7C+REST+APIs;Turning+Ideas+into+Production-Ready+Software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;Python+%7C+FastAPI+%7C+Django;AI+Agents+%7C+Workflow+Automation;Cloud-Native+Engineering+with+GCP" alt="Typing SVG"/>
 
 <br/>
 
@@ -23,17 +24,18 @@
 
 ## 👨‍💻 About Me
 
-Python Backend Developer with 4+ years of experience designing and developing scalable Python applications, cloud-native backend systems, RESTful APIs, and distributed architectures.
+Python Backend Developer with 4+ years of experience developing scalable Python applications, backend systems, RESTful APIs, and data-driven solutions.
 
-Passionate about building reliable backend solutions, designing efficient database architectures, automating data workflows, and integrating AI capabilities into modern applications.
+Interested in building enterprise AI applications, intelligent automation platforms, distributed systems, and cloud-native architectures.
 
 I enjoy transforming complex business requirements into maintainable, secure, and scalable software solutions.
 
-- 💻 Backend Development with Python, FastAPI, Django and Flask.
+- 💻 Backend Development using Python, FastAPI, Django, and Flask.
+- 🤖 AI application development, LLM integration, and intelligent agents.
+- ⚙️ Workflow automation and API architecture.
 - ☁️ Cloud-native application development using Google Cloud Platform.
-- 🗄️ Database design, query optimisation and data engineering.
-- ⚙️ API development, automation and distributed system architecture.
-- 🧠 Exploring AI-powered applications and intelligent backend workflows.
+- 🗄️ Database design, query optimisation, and data engineering.
+- 🧪 Building reliable applications through testing and clean architecture.
 
 ---
 
@@ -44,6 +46,14 @@ I enjoy transforming complex business requirements into maintainable, secure, an
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&theme=dark" />
 </p>
+
+### 🤖 AI & Application Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript&theme=dark" />
+</p>
+
+`Gemini API` `LLM Integration` `AI Agents` `Prompt Engineering` `Workflow Automation`
 
 ### ☁️ Cloud & DevOps
 
@@ -65,7 +75,7 @@ I enjoy transforming complex business requirements into maintainable, secure, an
 
 **Additional Technologies**
 
-`BigQuery` `Cloud Run` `Pub/Sub` `Cloud SQL` `Pandas` `NumPy` `Pytest` `REST API` `gRPC` `Power BI` `SQLAlchemy` `Alembic`
+`BigQuery` `Cloud Run` `Pub/Sub` `Pandas` `NumPy` `Pytest` `SQLAlchemy` `Alembic` `REST APIs` `Power BI`
 
 ---
 
@@ -73,20 +83,78 @@ I enjoy transforming complex business requirements into maintainable, secure, an
 
 | Domain | Specialisation |
 |---|---|
-| Backend Engineering | Python, FastAPI, Django, Flask, REST APIs |
-| API Architecture | API Design, Authentication, RBAC, Integration |
-| Cloud Architecture | GCP, Cloud Run, GKE, Pub/Sub |
-| Data Engineering | ETL Pipelines, BigQuery, Data Validation |
-| Database Engineering | PostgreSQL, MySQL, Redis, SQL Optimisation |
-| DevOps | Docker, CI/CD, Terraform |
-| AI Engineering | LLM Integration, AI Agent Workflows |
+| Backend Engineering | Python, FastAPI, Django, Flask |
+| AI Engineering | LLM Integration, AI Agents, AI Workflows |
+| API Architecture | REST APIs, Authentication, API Integration |
+| Cloud Architecture | GCP, Cloud Run, Cloud Services |
+| Database Engineering | PostgreSQL, MySQL, MongoDB, SQL Optimisation |
+| Data Engineering | ETL Pipelines, Data Processing, Validation |
+| DevOps | Docker, CI/CD, GitHub Actions |
 | Quality Engineering | Pytest, Unit Testing, Integration Testing |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. OrderFlow | Intelligent Order & Inventory Management Platform
+### 01. NexusAI | Enterprise AI Agent & Workflow Automation Platform
+
+<div align="center">
+
+<a href="https://github.com/soumo001/nexusai">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Gemini-4285F4?style=flat&logo=google&logoColor=white" />
+
+</div>
+
+NexusAI is an enterprise-oriented AI operations platform designed to bring AI conversations, intelligent agents, workflow automation, and knowledge management into a unified application.
+
+The platform combines a Python FastAPI backend with a React and TypeScript frontend, providing a modular foundation for building and managing AI-powered business workflows.
+
+**Key Features**
+
+- AI-powered conversational interface.
+- Intelligent agent management and configuration.
+- Workflow creation and automation capabilities.
+- Prompt management and reusable prompt configurations.
+- Knowledge management and document upload.
+- AI provider integration through a configurable backend abstraction.
+- JWT-based authentication and protected API endpoints.
+- PostgreSQL database integration using SQLAlchemy.
+- Database schema management through Alembic migrations.
+- Monitoring and application settings.
+- Modern React and TypeScript user interface.
+
+**Technology Stack**
+
+`Python` `FastAPI` `React` `TypeScript` `Vite` `PostgreSQL` `SQLAlchemy` `Alembic` `Gemini API` `JWT` `Pydantic` `Vercel`
+
+**Architecture Highlights**
+
+| Component | Technology |
+|---|---|
+| Backend API | FastAPI |
+| Frontend | React + TypeScript |
+| Database | PostgreSQL |
+| ORM | SQLAlchemy 2.x |
+| Database Migrations | Alembic |
+| Authentication | JWT |
+| AI Integration | Gemini API |
+| Frontend Deployment | Vercel |
+
+**GitHub Repository:** [github.com/soumo001/nexusai](https://github.com/soumo001/nexusai)
+
+<sub>Project status: Development and deployment configuration in progress.</sub>
+
+---
+
+### 02. OrderFlow | Intelligent Order & Inventory Management Platform
 
 <div align="center">
 
@@ -99,7 +167,7 @@ I enjoy transforming complex business requirements into maintainable, secure, an
 
 </div>
 
-A full-stack order and inventory management platform designed to demonstrate modern backend engineering, secure authentication, transactional workflows, and enterprise-style application development.
+A full-stack order and inventory management platform demonstrating modern backend engineering, secure authentication, transactional workflows, and enterprise-style application development.
 
 **Key Features**
 
@@ -118,11 +186,11 @@ A full-stack order and inventory management platform designed to demonstrate mod
 
 `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `SQLAlchemy` `Alembic` `Redis` `Docker` `Pytest`
 
-<sub>Repository: <a href="https://github.com/soumo001/orderflow">github.com/soumo001/orderflow</a></sub>
+**Repository:** [github.com/soumo001/orderflow](https://github.com/soumo001/orderflow)
 
 ---
 
-### 02. Enterprise Microservices Platform | Enterprise Backend Architecture
+### 03. Enterprise Microservices Platform | Enterprise Backend Architecture
 
 <div align="center">
 
@@ -133,31 +201,21 @@ A full-stack order and inventory management platform designed to demonstrate mod
 <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-
 </div>
 
 A modular enterprise microservices platform designed to demonstrate service-oriented architecture, independent backend services, API gateway integration, and multi-tenant business operations.
 
-The platform separates business capabilities into independently structured FastAPI services, with a React and TypeScript frontend providing a centralized management interface.
-
 **Key Features**
 
 - API Gateway architecture for centralized API access.
-- Independent authentication and organization services.
+- Authentication and organization services.
 - Product catalogue and inventory management.
 - Order management and payment service architecture.
 - Notification service for application communication.
-- PostgreSQL database separation across 7 business services.
+- PostgreSQL database separation across business services.
 - RESTful API architecture using FastAPI.
 - React and TypeScript enterprise dashboard.
 - Modular backend structure supporting independent service development.
-- Centralized frontend interface for enterprise operations.
 
 **Microservices Architecture**
 
@@ -180,11 +238,11 @@ The platform separates business capabilities into independently structured FastA
 
 **GitHub Repository:** [github.com/soumo001/enterprise-microservices-platform](https://github.com/soumo001/enterprise-microservices-platform)
 
-<sub>Deployment note: The frontend is publicly deployed. Backend service hosting and complete production API integration are still being configured.</sub>
+<sub>The frontend is publicly deployed. Backend hosting and complete production API integration are still being configured.</sub>
 
 ---
 
-### 03. GCP Event-Driven Processing System
+### 04. GCP Event-Driven Processing System
 
 <sub>Planned</sub>
 
@@ -196,7 +254,7 @@ An event-driven application demonstrating asynchronous processing, message-based
 
 ---
 
-### 04. Enterprise ETL & Data Engineering Pipeline
+### 05. Enterprise ETL & Data Engineering Pipeline
 
 <sub>Planned</sub>
 
@@ -208,26 +266,14 @@ An automated data processing pipeline focused on data extraction, transformation
 
 ---
 
-### 05. AI-Powered Backend Application
-
-<sub>Planned</sub>
-
-An intelligent backend application integrating LLM APIs, AI agents, workflow automation, and scalable REST APIs.
-
-**Planned Technology Stack**
-
-`Python` `FastAPI` `LLM APIs` `PostgreSQL`
-
----
-
 ## 🎯 Current Focus
 
 - Building enterprise-grade Python backend applications.
+- Developing AI-powered agents and automation workflows.
 - Exploring scalable distributed system architectures.
 - Advancing cloud-native development with GCP.
-- Developing AI-powered backend applications.
 - Improving database performance and API reliability.
-- Writing maintainable, testable, and secure software.
+- Building maintainable, testable, and secure software.
 
 ---
 
@@ -259,7 +305,7 @@ An intelligent backend application integrating LLM APIs, AI agents, workflow aut
 
 <br/><br/>
 
-### 💙 Building scalable systems, one commit at a time.
+### 💙 Building intelligent systems, one commit at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%"/>
 
