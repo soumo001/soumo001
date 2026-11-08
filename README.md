@@ -26,9 +26,7 @@
 
 Python Backend Developer with 4+ years of experience developing scalable Python applications, backend systems, RESTful APIs, and data-driven solutions.
 
-Interested in building enterprise AI applications, intelligent automation platforms, distributed systems, and cloud-native architectures.
-
-I enjoy transforming complex business requirements into maintainable, secure, and scalable software solutions.
+Passionate about building enterprise AI applications, intelligent automation platforms, distributed systems, and cloud-native architectures.
 
 - 💻 Backend Development using Python, FastAPI, Django, and Flask.
 - 🤖 AI application development, LLM integration, and intelligent agents.
@@ -48,10 +46,6 @@ I enjoy transforming complex business requirements into maintainable, secure, an
 </p>
 
 ### 🤖 AI & Application Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript&theme=dark" />
-</p>
 
 `Gemini API` `LLM Integration` `AI Agents` `Prompt Engineering` `Workflow Automation`
 
@@ -101,7 +95,7 @@ I enjoy transforming complex business requirements into maintainable, secure, an
 <div align="center">
 
 <a href="https://nexusai-two-jet.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-NexusAI-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/LIVE%20DEMO-NexusAI-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/soumo001/nexusai">
@@ -139,7 +133,7 @@ The platform combines a Python FastAPI backend with a React and TypeScript front
 
 `Python` `FastAPI` `React` `TypeScript` `Vite` `PostgreSQL` `SQLAlchemy` `Alembic` `Gemini API` `JWT` `Pydantic` `Vercel`
 
-**Architecture Highlights**
+**Architecture**
 
 | Component | Technology |
 |---|---|
@@ -150,11 +144,13 @@ The platform combines a Python FastAPI backend with a React and TypeScript front
 | Database Migrations | Alembic |
 | Authentication | JWT |
 | AI Integration | Gemini API |
-| Frontend Deployment | Vercel |
+| Frontend Hosting | Vercel |
+
+**Live Application:** [nexusai-two-jet.vercel.app](https://nexusai-two-jet.vercel.app/)
 
 **GitHub Repository:** [github.com/soumo001/nexusai](https://github.com/soumo001/nexusai)
 
-<sub>Project status: Development and deployment configuration in progress.</sub>
+<sub>Deployment status: Frontend deployed on Vercel. Backend API and database integration are being configured.</sub>
 
 ---
 
@@ -165,6 +161,7 @@ The platform combines a Python FastAPI backend with a React and TypeScript front
 <a href="https://orderflow-frontend-lkno.onrender.com/">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-OrderFlow-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://github.com/soumo001/orderflow">
 <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
@@ -201,13 +198,14 @@ A full-stack order and inventory management platform demonstrating modern backen
 <a href="https://enterprise-microservices-platform.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-Visit%20Website-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://github.com/soumo001/enterprise-microservices-platform">
 <img src="https://img.shields.io/badge/SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
 
-A modular enterprise microservices platform designed to demonstrate service-oriented architecture, independent backend services, API gateway integration, and multi-tenant business operations.
+A modular enterprise microservices platform demonstrating service-oriented architecture, independent backend services, API gateway integration, and multi-tenant business operations.
 
 **Key Features**
 
@@ -285,7 +283,17 @@ An automated data processing pipeline focused on data extraction, transformation
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumo001&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soumo001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=soumo001&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumo001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumo001&theme=tokyonight" width="95%" />
 
 </div>
 
