@@ -289,10 +289,6 @@ An automated data processing pipeline focused on data extraction, transformation
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumo001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumo001&theme=tokyonight" width="95%" />
 
 </div>
